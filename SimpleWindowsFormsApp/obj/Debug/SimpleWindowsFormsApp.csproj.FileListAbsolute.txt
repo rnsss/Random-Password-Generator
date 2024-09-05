@@ -1,0 +1,10 @@
+D:\Code\C#\SimpleWindowsFormsApp\SimpleWindowsFormsApp\bin\Debug\SimpleWindowsFormsApp.exe.config
+D:\Code\C#\SimpleWindowsFormsApp\SimpleWindowsFormsApp\bin\Debug\SimpleWindowsFormsApp.exe
+D:\Code\C#\SimpleWindowsFormsApp\SimpleWindowsFormsApp\bin\Debug\SimpleWindowsFormsApp.pdb
+D:\Code\C#\SimpleWindowsFormsApp\SimpleWindowsFormsApp\obj\Debug\SimpleWindowsFormsApp.csproj.AssemblyReference.cache
+D:\Code\C#\SimpleWindowsFormsApp\SimpleWindowsFormsApp\obj\Debug\SimpleWindowsFormsApp.Form1.resources
+D:\Code\C#\SimpleWindowsFormsApp\SimpleWindowsFormsApp\obj\Debug\SimpleWindowsFormsApp.Properties.Resources.resources
+D:\Code\C#\SimpleWindowsFormsApp\SimpleWindowsFormsApp\obj\Debug\SimpleWindowsFormsApp.csproj.GenerateResource.cache
+D:\Code\C#\SimpleWindowsFormsApp\SimpleWindowsFormsApp\obj\Debug\SimpleWindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Code\C#\SimpleWindowsFormsApp\SimpleWindowsFormsApp\obj\Debug\SimpleWindowsFormsApp.exe
+D:\Code\C#\SimpleWindowsFormsApp\SimpleWindowsFormsApp\obj\Debug\SimpleWindowsFormsApp.pdb

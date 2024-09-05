@@ -1,0 +1,8 @@
+D:\Code\C#\SimpleWindowsFormsApp\SimpleWindowsFormsApp\bin\Release\SimpleWindowsFormsApp.exe.config
+D:\Code\C#\SimpleWindowsFormsApp\SimpleWindowsFormsApp\bin\Release\SimpleWindowsFormsApp.exe
+D:\Code\C#\SimpleWindowsFormsApp\SimpleWindowsFormsApp\obj\Release\SimpleWindowsFormsApp.csproj.AssemblyReference.cache
+D:\Code\C#\SimpleWindowsFormsApp\SimpleWindowsFormsApp\obj\Release\SimpleWindowsFormsApp.Properties.Resources.resources
+D:\Code\C#\SimpleWindowsFormsApp\SimpleWindowsFormsApp\obj\Release\SimpleWindowsFormsApp.csproj.GenerateResource.cache
+D:\Code\C#\SimpleWindowsFormsApp\SimpleWindowsFormsApp\obj\Release\SimpleWindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Code\C#\SimpleWindowsFormsApp\SimpleWindowsFormsApp\obj\Release\SimpleWindowsFormsApp.exe
+D:\Code\C#\SimpleWindowsFormsApp\SimpleWindowsFormsApp\obj\Release\SimpleWindowsFormsApp.Form1.resources
